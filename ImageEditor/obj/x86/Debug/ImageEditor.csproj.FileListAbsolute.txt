@@ -1,0 +1,19 @@
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\bin\Debug\AForge.dll
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\bin\Debug\AForge.Imaging.dll
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\obj\x86\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\obj\x86\Debug\ImageEditor.Form1.resources
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\obj\x86\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\obj\x86\Debug\ImageEditor.csproj.GenerateResource.Cache
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\obj\x86\Debug\ImageEditor.exe
+C:\Users\Sulay Sumaria\AppData\Local\Temporary Projects\ImageEditor\obj\x86\Debug\ImageEditor.pdb
+C:\Users\Sulay Sumaria\documents\visual studio 2010\Projects\ImageEditor\ImageEditor\obj\x86\Debug\ImageEditor.exe
+C:\Users\Sulay Sumaria\documents\visual studio 2010\Projects\ImageEditor\ImageEditor\obj\x86\Debug\ImageEditor.pdb
+C:\Users\Sulay Sumaria\Documents\Visual Studio 2010\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\Sulay Sumaria\Documents\Visual Studio 2010\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\Sulay Sumaria\Documents\Visual Studio 2010\Projects\ImageEditor\ImageEditor\obj\x86\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Sulay Sumaria\Documents\Visual Studio 2010\Projects\ImageEditor\ImageEditor\obj\x86\Debug\ImageEditor.Form1.resources
+C:\Users\Sulay Sumaria\Documents\Visual Studio 2010\Projects\ImageEditor\ImageEditor\obj\x86\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\Sulay Sumaria\Documents\Visual Studio 2010\Projects\ImageEditor\ImageEditor\obj\x86\Debug\ImageEditor.csproj.GenerateResource.Cache
+C:\Users\Sulay Sumaria\Documents\Visual Studio 2010\Projects\ImageEditor\ImageEditor\obj\x86\Debug\ImageEditor.about.resources
